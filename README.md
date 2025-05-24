@@ -33,6 +33,4 @@ This project demonstrates the application of Artificial Neural Networks (ANNs) t
    ```bash
    jupyter notebook customer-churn-prediction.ipynb
    
-## Model Performance
 
-The ANN model achieved an accuracy of approximately **85%** on the test set, demonstrating its effectiveness in predicting customer churn.
